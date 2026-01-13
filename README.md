@@ -1,16 +1,17 @@
-## Hi there 👋
+# Luke Morton
 
-<!--
-**LukeM94/LukeM94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior IT Specialist based in Dublin.
 
-Here are some ideas to get you started:
+I build practical tools, automation, and internal web applications to reduce manual work and simplify day-to-day operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+- Internal tooling and process automation  
+- Web applications using TypeScript, Python, and C#  
+- Linux, Docker, and databases
+
+## Public projects
+- **GymTracker** – A simple, self-hosted workout tracking app  
+- **TechSupportToolbox** – Small scripts and utilities for everyday IT work  
+- **lukemorton.ie** – Personal website
+
+Most of my larger or business-critical work lives in private repositories.
